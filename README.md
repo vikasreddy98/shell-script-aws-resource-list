@@ -27,7 +27,7 @@ sudo ./aws/install
 ```
 aws configure
 ```
-**Enter the reuired information when prompted**
+**Enter the required information when prompted**
 1. `AWS Access Key ID:` Paste the Access Key ID you obtained from the IAM console.
 2. `AWS Secret Access Key:` Paste the Secret Access Key. Note that for security reasons, the key will not be displayed on the screen as you type it.
 3. `Default Region Name:` Enter the AWS Region you want to use by default (e.g., `us-west-2` or `eu-central-1`). This is typically the region closest to you or where your resources are located.
